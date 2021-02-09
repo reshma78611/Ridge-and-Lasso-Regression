@@ -25,7 +25,7 @@ In regularization, what we do is normally we keep the same number of features, b
     While minimizing SSE using ridge regression this L2 penalty term makes coefficients to shrink
     Here if you notice, we come across an extra term, which is known as the penalty term. λ given here, is actually denoted by alpha parameter in the ridge function. So by changing the values of alpha, we are basically controlling the penalty term. Higher the values of alpha, bigger is the penalty and therefore the magnitude of coefficients are reduced.
 
-**Important Points:**
+**Important Points:**\
   *●	It shrinks the parameters, therefore it is mostly used to prevent multicollinearity*.\
   *●	It reduces the model complexity by coefficient shrinkage*.\
   *●	It uses L2 regularization technique.*
@@ -46,7 +46,7 @@ Now let us consider another type of regression technique which also makes use of
             Here too, λ is the hypermeter, whose value is equal to the alpha in the Lasso function.
             What this L1 penalty term does is, it not only shrinks coefficients but shrinks sum of them to zero and that is very useful for feature selection
  
-**Important Points:**
+**Important Points:**\
   *●	It uses L1 regularization technique.*\
   *●	It is generally used when we have more features because it automatically does feature selection.*
   
