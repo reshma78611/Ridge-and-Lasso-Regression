@@ -34,7 +34,7 @@ In regularization, what we do is normally we keep the same number of features, b
 Now let us consider another type of regression technique which also makes use of regularization.
 
 
-## Lasso regression:
+##2. Lasso regression:
 
             LASSO (Least Absolute Shrinkage Selector Operator), is quite similar to ridge, but let's understand the difference between them.
             After comparing we can see that, both the rmse and the value of R-square for our model will be increased. Therefore, lasso model is predicting better than both linear and ridge.(here i have chosen the case where Lasso regression R square value is high)
