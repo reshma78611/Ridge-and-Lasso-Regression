@@ -57,6 +57,6 @@ Now let us consider another type of regression technique which also makes use of
       Python
   
   
-## *The Codes regarding this Ridge and Lasso Regression model are *comparision between Linear, Ridge, Lasso Regresssios* with dataset of housing is present in this Repository in detail* ##
+**The Codes regarding this Ridge and Lasso Regression model are *comparision between Linear, Ridge, Lasso Regresssions* with dataset of housing is present in this Repository in detail**
 
  
